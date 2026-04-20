@@ -43,7 +43,6 @@ A balanced multilingual dataset of **12,000 samples** was constructed:
 
 All datasets were harmonized into a **three-class sentiment structure**:
 - `NEG` (Negative)
-- `NEUTRAL`
 - `POS` (Positive)
 
 ---
